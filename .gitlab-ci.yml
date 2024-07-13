@@ -2,6 +2,7 @@
 image: apline:latest
 
 pages:
+  stage: deploy
   script:
     - mkdir .public
     - cp -r * .public
