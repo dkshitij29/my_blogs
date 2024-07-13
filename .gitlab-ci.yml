@@ -1,4 +1,5 @@
-image: alpine:latest
+# The Docker image that will be used to build your app
+image: apline:latest
 
 pages:
   script:
