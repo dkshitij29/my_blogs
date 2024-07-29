@@ -37,7 +37,7 @@ h1 ,h4 {
 
 
 footer {
-    position: sticky;
+    position: static;
     top: 10px;
     bottom: 10px;
     left: 0;
